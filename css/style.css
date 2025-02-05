@@ -25,6 +25,10 @@ h1,h2,h3,h4,h5,h6{
     background: green;
     color: rgb(246, 230, 230);
 }
+.nav-item{
+    padding: 0 20px;
+    font-size: 20px;
+}
 /* Navbar part End */
 
 /* Header Part Start */
